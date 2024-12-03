@@ -1,0 +1,32 @@
+# Core dependencies
+streamlit==1.40.2  # Web app framework
+torch==2.5.1+cu118  # PyTorch with CUDA support
+transformers==4.46.3  # Hugging Face Transformers for NLP
+rouge_score==0.1.2  # For ROUGE metric calculation
+
+# NLP libraries
+nltk==3.9.1  # Natural Language Toolkit
+textblob==0.18.0.post0  # For text processing
+regex==2024.11.6  # Regular expressions
+
+# Utilities and helper libraries
+tqdm==4.67.0  # Progress bar
+numpy  # Numerical computations
+pandas  # Data manipulation
+scikit-learn==1.5.2  # Machine learning library
+joblib==1.4.2  # For parallel computing
+requests==2.32.3  # HTTP requests
+
+# Visualization
+matplotlib==3.9.2  # Plotting library
+
+# Tokenizers and text search
+tokenizers==0.20.4  # Hugging Face tokenizers
+textsearch==0.0.24  # For advanced text search functionality
+
+# Streamlit-specific dependencies
+altair==5.5.0  # Visualization library for Streamlit
+pydeck==0.9.1  # Geospatial visualizations in Streamlit
+
+# Optional dependencies
+protobuf==5.29.0  # Protocol buffers (auto-installed by some dependencies)
