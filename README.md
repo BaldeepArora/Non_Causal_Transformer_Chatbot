@@ -84,6 +84,7 @@ The application is deployed on Hugging Face Spaces for public access.
 
 ## Contributors
 - **Baldeep Arora**
+- **Arshia Pelathur Gururaj**
 
 
 
