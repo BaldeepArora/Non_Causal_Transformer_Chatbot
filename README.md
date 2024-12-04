@@ -83,8 +83,8 @@ The application is deployed on Hugging Face Spaces for public access.
 - NumPy
 
 ## Contributors
-- **Baldeep Arora**
-- **Arshia Pelathur Gururaj**
+- **[Baldeep Arora](https://github.com/BaldeepArora)**
+- **[Arshia Pelathur Gururaj](https://github.com/arshia-pelathur)**
 
 
 
